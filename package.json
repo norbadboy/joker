@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/norbadboy/joker/issues"
   },
-  "homepage": "https://github.com/norbadboy/joker#readme"
+  "homepage": "https://github.com/norbadboy/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
