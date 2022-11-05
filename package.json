@@ -1,0 +1,25 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norbadboy/joker.git"
+  },
+  "keywords": [
+    "css",
+    "e-commerce",
+    "portfolio",
+    "website"
+  ],
+  "author": "thong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norbadboy/joker/issues"
+  },
+  "homepage": "https://github.com/norbadboy/joker#readme"
+}
