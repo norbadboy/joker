@@ -1,6 +1,6 @@
 {
   "name": "thongho-joker",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Application that tells jokes",
   "type": "module",
   "main": "src/index.js",
