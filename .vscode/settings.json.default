@@ -1,0 +1,38 @@
+{
+  "editor.fontSize": 14,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"],
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Atom One Dark",
+  "prettier.printWidth": 100,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.ignoreMissingGitWarning": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.linkedEditing": true,
+  "explorer.confirmDelete": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "bracketPairColorizer.depreciation-notice": false,
+  "window.zoomLevel": 2,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveSassCompile.settings.watchOnLaunch": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "git.autofetch": true,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.advanced": {},
+  "cSpell.userWords": ["Contactbook", "noroff", "thongho", "Trong"],
+  "github.copilot.enable": {
+    "*": false,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": false,
+    "javascript": false,
+    "html": true
+  },
+  "git.confirmSync": false
+}
